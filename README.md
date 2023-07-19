@@ -1,4 +1,4 @@
-# multiverse-harvard-references
+# Multiverse-flavoured Harvard references
 XSL stylesheet and example document for citations and references in Multiverse L5/6 projects.
 
 ## Installation and use
